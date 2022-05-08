@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,MyCamTV XXX Vod #5164
+https://vod.mycamtv.net/5164.m3u8
+#EXTINF:-1,MyCamTV XXX Vod #5174
+https://vod.mycamtv.net/5174.m3u8
+#EXTINF:-1,MyCamTV XXX Vod #5182
+https://vod.mycamtv.net/5182.m3u8
+#EXTINF:-1,MyCamTV XXX Vod #5200
+https://vod.mycamtv.net/5200.m3u8
 #EXTINF:-1,MyCamTV XXX Vod #198
 https://vod.mycamtv.net/198.m3u8
 #EXTINF:-1,MyCamTV XXX Vod #202
